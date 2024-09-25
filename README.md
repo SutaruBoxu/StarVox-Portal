@@ -4,7 +4,7 @@
 
 
 Website: https://starvoxc2.us  
-Twitter account: https://x.com/TheStarVox  
+Subreddit: https://www.reddit.com/r/StarVox  
 Behance portfolio: https://behance.net/star-vox
 
 ##  YouTube  
