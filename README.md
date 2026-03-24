@@ -20,6 +20,6 @@ SoundCloud: https://soundcloud.com/starvox-764851184
 
 
 ## Contact Me  
-Media Email: star.vox.mvc@gmail.com  
-Administrative Email: archwaybowman@gmail.com  
+Media Email: starvoxmedia@gmail.com  
+Administrative Email: star.vox.mvc@gmail.com  
 Community Discord server: https://discord.gg/9GNEtnK2Yj
