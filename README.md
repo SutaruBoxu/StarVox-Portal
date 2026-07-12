@@ -10,7 +10,6 @@ Behance portfolio: https://behance.net/star-vox
 ##  YouTube  
 YouTube channel: https://youtube.com/@thestarvox - [YouTube Project Trello](https://trello.com/invite/b/66b1b8ee6291e28eec98c6fb/ATTI8676fece4b38f844b6924c8d734f0df60491709A/the-spt-show)  
 SPT 3.9.8 Mod Guide: https://shorturl.at/YkjIY  
-Club StarVox SPT Database: https://shorturl.at/eMrvC
 
 
 ## Support and Premium Content  
